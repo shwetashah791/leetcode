@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
+| [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
