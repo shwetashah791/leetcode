@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetashah791/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
