@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |
