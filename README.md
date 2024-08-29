@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shwetashah791/LEETCODE/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
@@ -93,9 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
