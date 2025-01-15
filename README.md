@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shwetashah791/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shwetashah791/LEETCODE/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shwetashah791/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shwetashah791/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Design
