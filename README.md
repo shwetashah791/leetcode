@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetashah791/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shwetashah791/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetashah791/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shwetashah791/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shwetashah791/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shwetashah791/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
