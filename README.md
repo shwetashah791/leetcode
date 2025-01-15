@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shwetashah791/Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/shwetashah791/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shwetashah791/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shwetashah791/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
 ## Enumeration
@@ -224,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shwetashah791/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
