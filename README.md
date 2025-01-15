@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shwetashah791/LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
 ## Enumeration
 |  |
@@ -233,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shwetashah791/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shwetashah791/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
