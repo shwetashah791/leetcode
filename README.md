@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shwetashah791/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shwetashah791/LEETCODE/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shwetashah791/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shwetashah791/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/shwetashah791/LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shwetashah791/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
