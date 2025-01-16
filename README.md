@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shwetashah791/LEETCODE/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
 ## Sliding Window
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/shwetashah791/LEETCODE/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Greedy
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
