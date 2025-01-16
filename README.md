@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shwetashah791/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetashah791/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shwetashah791/LEETCODE/tree/master/0392-is-subsequence) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shwetashah791/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shwetashah791/LEETCODE/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
