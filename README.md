@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shwetashah791/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shwetashah791/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
+| [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 ## Depth-First Search
 |  |
 | ------- |
