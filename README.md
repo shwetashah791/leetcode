@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shwetashah791/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shwetashah791/LEETCODE/tree/master/0392-is-subsequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shwetashah791/LEETCODE/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shwetashah791/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shwetashah791/LEETCODE/tree/master/0242-valid-anagram) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shwetashah791/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 ## Tree
 |  |
 | ------- |
@@ -344,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
