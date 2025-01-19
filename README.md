@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shwetashah791/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shwetashah791/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetashah791/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/shwetashah791/LEETCODE/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
@@ -333,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
