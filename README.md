@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shwetashah791/LEETCODE/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shwetashah791/LEETCODE/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shwetashah791/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shwetashah791/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shwetashah791/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shwetashah791/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shwetashah791/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
 ## Stack
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shwetashah791/LEETCODE/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shwetashah791/LEETCODE/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
 ## Simulation
 |  |
