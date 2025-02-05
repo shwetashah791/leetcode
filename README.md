@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/shwetashah791/LEETCODE/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/shwetashah791/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/shwetashah791/LEETCODE/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/shwetashah791/LEETCODE/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/shwetashah791/LEETCODE/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/shwetashah791/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [3634-find-mirror-score-of-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/3634-find-mirror-score-of-a-string) |
 ## String Matching
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/shwetashah791/LEETCODE/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/shwetashah791/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/shwetashah791/LEETCODE/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
