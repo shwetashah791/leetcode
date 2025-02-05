@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shwetashah791/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shwetashah791/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shwetashah791/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shwetashah791/Leetcode/tree/master/0027-remove-element) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shwetashah791/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shwetashah791/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0064-minimum-path-sum) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetashah791/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shwetashah791/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shwetashah791/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shwetashah791/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shwetashah791/Leetcode/tree/master/0013-roman-to-integer) |
