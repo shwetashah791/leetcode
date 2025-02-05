@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shwetashah791/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/shwetashah791/LEETCODE/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shwetashah791/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/shwetashah791/LEETCODE/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetashah791/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shwetashah791/LEETCODE/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shwetashah791/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/shwetashah791/LEETCODE/tree/master/0502-ipo) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shwetashah791/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shwetashah791/LEETCODE/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shwetashah791/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/shwetashah791/LEETCODE/tree/master/0502-ipo) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/shwetashah791/LEETCODE/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Prefix Sum
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shwetashah791/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetashah791/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/shwetashah791/LEETCODE/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
