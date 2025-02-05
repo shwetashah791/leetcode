@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shwetashah791/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/shwetashah791/LEETCODE/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/shwetashah791/LEETCODE/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shwetashah791/LEETCODE/tree/master/0954-maximum-sum-circular-subarray) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/shwetashah791/LEETCODE/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/shwetashah791/LEETCODE/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/shwetashah791/LEETCODE/tree/master/0399-evaluate-division) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/shwetashah791/LEETCODE/tree/master/0945-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
