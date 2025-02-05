@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shwetashah791/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/shwetashah791/LEETCODE/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/shwetashah791/LEETCODE/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/shwetashah791/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shwetashah791/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/shwetashah791/LEETCODE/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shwetashah791/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/shwetashah791/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shwetashah791/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shwetashah791/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
