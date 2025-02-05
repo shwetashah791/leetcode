@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/shwetashah791/LEETCODE/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shwetashah791/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/shwetashah791/LEETCODE/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/shwetashah791/LEETCODE/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/shwetashah791/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shwetashah791/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shwetashah791/LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shwetashah791/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
@@ -523,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shwetashah791/LEETCODE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
