@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shwetashah791/LEETCODE/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shwetashah791/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/shwetashah791/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/shwetashah791/LEETCODE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shwetashah791/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/shwetashah791/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/shwetashah791/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shwetashah791/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/shwetashah791/LEETCODE/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/shwetashah791/LEETCODE/tree/master/0077-combinations) |
 ## Graph
 |  |
