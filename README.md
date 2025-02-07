@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shwetashah791/LEETCODE/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/shwetashah791/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shwetashah791/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shwetashah791/LEETCODE/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/shwetashah791/LEETCODE/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/shwetashah791/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/shwetashah791/LEETCODE/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
