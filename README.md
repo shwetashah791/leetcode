@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shwetashah791/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shwetashah791/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/shwetashah791/LEETCODE/tree/master/0228-summary-ranges) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shwetashah791/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shwetashah791/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shwetashah791/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/shwetashah791/LEETCODE/tree/master/0290-word-pattern) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shwetashah791/LEETCODE/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shwetashah791/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
 ## Database
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shwetashah791/LEETCODE/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shwetashah791/LEETCODE/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/shwetashah791/LEETCODE/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/shwetashah791/LEETCODE/tree/master/0945-snakes-and-ladders) |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/shwetashah791/LEETCODE/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/shwetashah791/LEETCODE/tree/master/0079-word-search) |
+| [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
 ## Graph
 |  |
 | ------- |
