@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shwetashah791/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shwetashah791/LEETCODE/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shwetashah791/LEETCODE/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shwetashah791/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shwetashah791/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/shwetashah791/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/shwetashah791/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/shwetashah791/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/shwetashah791/LEETCODE/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 ## Tree
 |  |
@@ -588,4 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shwetashah791/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
